@@ -1,6 +1,6 @@
 # Node-Farm
 
-Node-Farm is a simple Node.js application that simulates a farm management system. It allows users to manage farms, view products, and handle orders.
+Node-Farm is a simple Node.js application that simulates a farm management system. It allows users to manage products, view products, and see the details.
 
 
 ## Features
